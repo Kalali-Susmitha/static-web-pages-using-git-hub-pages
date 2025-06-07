@@ -49,6 +49,7 @@ This project was built as part of a learning task to understand:
 - Responsive design
 - Basic JavaScript interactivity
 - ## 📸 Screenshots
+- ![Image](https://github.com/user-attachments/assets/30f623fc-b0d1-4a35-b956-661ca1fde344)
 
 
 
